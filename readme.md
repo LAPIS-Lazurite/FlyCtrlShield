@@ -15,3 +15,7 @@ Lazurite FlyのコントローラシールドからCRANEを制御するためのプログラムです。
 	送信先アドレス	HOST_ADDRESS	LazuriteFly側にあわせる
 
 
+#License
+MITライセンスで公開しています。
+
+
